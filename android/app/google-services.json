@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116377091842",
+    "project_id": "newsummit-75e25",
+    "storage_bucket": "newsummit-75e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116377091842:android:f9b63d112bb4f869520c1b",
+        "android_client_info": {
+          "package_name": "coem.example.nwsummit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116377091842-alaurehmnn0n643fctk7v9lnsshlmrtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsummit",
+            "certificate_hash": "2099d269b8cbf6341110f8649d7ee4a49d66f289"
+          }
+        },
+        {
+          "client_id": "116377091842-r9ppalq75ah7gi9efd3q5hv3tu3gi592.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3gloYfGMVd38UkTM45OGTstdK4ybxbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116377091842-r9ppalq75ah7gi9efd3q5hv3tu3gi592.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
